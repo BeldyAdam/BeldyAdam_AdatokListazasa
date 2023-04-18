@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+main {
+  border: 1px solid rgb(0, 0, 0);
+  margin: auto;
+  padding: 0;
+  max-width: 1200px;
+  background-color: rgb(255, 255, 255);
+}
+
+table {
+  background-color: rgb(255, 255, 255);
+}
+
+article {
+  margin: auto;
+  padding: 0;
+}
+
+
+
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.card {
+  gap: 30px;
+}
+
+
+.card-text img {
+  max-width: 80px;
+}
+
+footer{
+  border-top: 1px solid black;
+  text-align: center;
+}
+
+button img{
+  height: 20px;
+  width: auto;
+}
+
+input {
+  margin: 8px;
+}
+
+.torlesB {
+  border: 1px solid rgb(0, 0, 0);
+}
