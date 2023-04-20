@@ -25,7 +25,7 @@ function kosar()
         <div class="card-body">
         <h5 class="card-title">${ADATLISTA[i].nev}</h5>
         <p class="card-text">Fajta:${ADATLISTA[i].fajta}</p>
-        <p class="card-text">Kor:${ADATLISTA[i].kor}</p>
+        <p class="card-text">Kor:${ADATLISTA[i].kor} éves</p>
         <a href="#" class="btn btn-primary megvizsgal">Megvizsgál</a>
         <button href="#" class="btn btn-primary" value="${i}" id="buy">Kosárba tesz</button>
       </div>
